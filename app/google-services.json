@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "337536488468",
+    "firebase_url": "https://kotlinfirebasechatapp-45f13.firebaseio.com",
+    "project_id": "kotlinfirebasechatapp-45f13",
+    "storage_bucket": "kotlinfirebasechatapp-45f13.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:337536488468:android:feee77a55e25c317788301",
+        "android_client_info": {
+          "package_name": "com.kotlin.ivanpaulrutale.chatterbox"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "337536488468-u8p2f6buur77vhikget61s52ulavmjqf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6yS5DFaAWXYdWuFKnQE4XLUpSzEL2jYM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "337536488468-u8p2f6buur77vhikget61s52ulavmjqf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
